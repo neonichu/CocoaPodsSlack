@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>showDockIcon</key>
+	<true/>
+	<key>enableStatusBarMenu</key>
+	<false/>
+	<key>allowWindowResize</key>
+	<false/>
+	<key>startWidth</key>
+	<integer>800</integer>
+	<key>startHeight</key>
+	<integer>430</integer>
+	<key>allowWebkitDebug</key>
+	<false/>
+	<key>splashScreenImage</key>
+	<string>splash-screen.png</string>
+	<key>splashBackgroundColor</key>
+	<string>#e74c3c</string>
+	<key>startPage</key>
+	<string>https://cocoapods.slack.com</string>
+</dict>
+</plist>
